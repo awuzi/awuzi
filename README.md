@@ -1,1 +1,1 @@
-<img src="/bio.gif" width="500"/>
+<img src="https://media.giphy.com/media/el8TV2MMqtFtDmF92D/giphy-downsized-large.gif" width="500"/>
