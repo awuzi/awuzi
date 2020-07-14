@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/Awuzi/Awuzi/raw/master/bio.gif" height="400"/>
+   <img src="https://github.com/Awuzi/Awuzi/raw/master/bio.gif" width="700"/>
 </p>
 <p align="center">
    <a href="https://yahia-lamri.fr/">Portfolio</a> •
