@@ -20,10 +20,3 @@
 </p>
 
 ---
-
-<h4 align="center">
-  🔵 Discover my projects 🔵 
-</h4>
-<p align="center">
-  ⬇ ⬇ ⬇ ⬇
-</p>
